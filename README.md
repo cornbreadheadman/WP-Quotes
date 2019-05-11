@@ -10,11 +10,11 @@ This plugin is not on the Official WordPress Directory (yet).
 
 ### From this repository
 
-Go to the releases section of the repository and download the most recent release.
-
-Then, from your WordPress administration panel, go to Plugins > Add New and click the Upload Plugin button at the top of the page.
+This plugin is not ready for installation.
 
 ## Updates
+
+- 0.0.1 - Created boilerplate for wordpress plugin.
 
 ## ToDo's
 
