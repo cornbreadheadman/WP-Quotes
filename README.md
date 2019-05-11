@@ -12,12 +12,12 @@ This plugin is not on the Official WordPress Directory (yet).
 
 This plugin is not ready for installation.
 
+[WP-Quotes.zip](wp-quotes.zip) is the most recent version for download.
+
 ## Updates
 
 - 0.0.1 - Created boilerplate for wordpress plugin.
 
 ## ToDo's
 
-### Notes
-
-- [wp-quotes.zip](wp-quotes.zip) is the boilerplate for the project with no code written yet.
+- Finish
