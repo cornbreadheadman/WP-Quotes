@@ -1,5 +1,6 @@
-# WP-Quotes
+# Random Quotes WordPress Plugin
 WordPress plugin that displays a random quote from a mySQL server.
+## How to Install
 ## Updates
 ## ToDo's
 ### Notes
