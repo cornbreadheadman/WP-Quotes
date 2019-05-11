@@ -4,7 +4,7 @@
  * Fired during plugin activation
  *
  * @link       https://cornbread.me
- * @since      1.0.0
+ * @since      0.0.1
  *
  * @package    Wp_Quotes
  * @subpackage Wp_Quotes/includes
@@ -15,7 +15,7 @@
  *
  * This class defines all code necessary to run during the plugin's activation.
  *
- * @since      1.0.0
+ * @since      0.0.1
  * @package    Wp_Quotes
  * @subpackage Wp_Quotes/includes
  * @author     Cornbread <cornbread@cornbread.me>
@@ -27,7 +27,7 @@ class Wp_Quotes_Activator {
 	 *
 	 * Long Description.
 	 *
-	 * @since    1.0.0
+	 * @since    0.0.1
 	 */
 	public static function activate() {
 
