@@ -55,6 +55,25 @@ class Wp_Quotes_Admin {
 	}
 
 	/**
+	 * Load the required dependencies for the Admin facing functionality.
+	 *
+	 * Include the following files that make up the plugin:
+	 *
+	 * - Wp_Quotes_Plugin_Admin_Settings. Registers the admin settings and page.
+	 *
+	 *
+	 * @since    0.0.1
+	 * @access   private
+	 */
+	private function load_dependencies() {
+		/**
+		 * The class responsible for orchestrating the actions and filters of the
+		 * core plugin.
+		 */
+		require_once plugin_dir_path( dirname( __FILE__ ) ) .  'admin/class-wp-quotes-plugin-settings.php';
+	}
+	
+	/**
 	 * Register the stylesheets for the admin area.
 	 *
 	 * @since    0.0.1
